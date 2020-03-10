@@ -8,7 +8,7 @@
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Robot construction experiment
 
 #### Photo of completed project ####
 
