@@ -14,7 +14,7 @@ Robot construction experiment
 
 ![Image](robots.jpg)
 
-This is a picture of my robot experiment.
+This is a picture of my robot experiment that you can see here.
 
 #### Reflection ####
 
